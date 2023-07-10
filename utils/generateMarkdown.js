@@ -9,7 +9,7 @@ function generateMarkdown(data) {
 ${data.description}
 
 ### App working example
-[Video Link](https://drive.google.com/file/d/1Vemktri1mAeU7rMFtyqG0WaciJ0rYoiN/view)
+[Video Link](https://drive.google.com/file/d/12p3tPq7Z5iCAtxy8zp-9hpbQe5x1uN6H/view)
 
 ## Table of contents
 
